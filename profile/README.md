@@ -5,7 +5,14 @@
 
 Welcome to the official GitHub organisation of **BESTWAY Education Center** — `[@bestwayec](https://github.com/bestwayec)`.
 
+> 🛡️ **Owned & controlled by [@algorithco](https://github.com/algorithco)** — Builders of future technology.
+> This organisation is maintained by the official Algorithco engineering team (Uzbekistan · Telegram [@algorithco](https://t.me/algorithco)).
+
 One platform for the whole center — students, teachers, parents and admins — with transparent attendance, points, payments and exam results.
+
+## 🛡️ Ownership & maintenance
+
+This `bestwayec` organisation **belongs to the official [Algorithco](https://github.com/algorithco) organisation** and is fully controlled by the Algorithco team — security-first, production-grade engineering, clean micro-service architecture. All repositories here are built, reviewed and operated by Algorithco.
 
 ---
 
