@@ -2,17 +2,10 @@
 
 > English & IELTS center · Shofirkon, Bukhara · Since 2007
 
-## 🛡️ Owners
-
-**[@algorithco](https://github.com/algorithco)** owns and controls this org.
-All code here is built and maintained by the Algorithco team.
-
 ## 🏫 Center
 
 - Founder: **Aziz Akhtamov**
 - Focus: English, IELTS, Multilevel
-- Bot: [@bestway_xabarbot](https://t.me/bestway_xabarbot)
-- Mail: `otashdev1@gmail.com`
 
 ## ⭐ Main project
 
